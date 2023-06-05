@@ -2,7 +2,7 @@
 
 [Link to design file](https://www.figma.com/file/OyoVI64WPi8hxGXWxIxUL8/Quiz?type=design&node-id=0%3A1&t=xzS0hwRdImTu2dp1-1)
 
-This project was bootstrapped with Create React App.
+This project was bootstrapped with Create React App.\
 In the project directory, you can run:
 
 ### `npm start`

@@ -1,18 +1,16 @@
-/** @jsxImportSource @emotion/react */
-
-import { css } from "@emotion/react";
+import { css } from "@emotion/css";
 
 const App = () => {
   return (
     <div
-      css={css`
+      className={css`
         display: flex;
         flex-direction: column;
         height: 100vh;
       `}
     >
       <div
-        css={css`
+        className={css`
           flex: 1;
           display: flex;
           justify-content: center;
